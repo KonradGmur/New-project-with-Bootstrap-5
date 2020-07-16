@@ -66,5 +66,6 @@ a{
   z-index: -1;
   position: fixed;
   clip-path: polygon(42% 1%, 100% 31%, 60% 100%, 0 72%);
+}
 
 
