@@ -49,4 +49,13 @@ a{
   color:#444;
   text-decoration: none;
 }
+.footer{
+  background-color: rgb(221, 216, 216);
+  font-size: 1rem;
+  margin:0;
+}
+
+.panel-right{
+  background-color: #eee;
+}
 
